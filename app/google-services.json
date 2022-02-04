@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084211994935",
+    "project_id": "parkourapp-93b3a",
+    "storage_bucket": "parkourapp-93b3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084211994935:android:a05dbbe12e04380bfbbab2",
+        "android_client_info": {
+          "package_name": "com.example.parkourapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084211994935-loiobdc540t7sur8h2fnmoc76oul82i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPOH9WFN_93KXqp5f_9YEEdjT4TFdl6nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084211994935-loiobdc540t7sur8h2fnmoc76oul82i2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
